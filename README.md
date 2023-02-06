@@ -6,7 +6,7 @@ I live in Tula, Russia and working at market-top selling company called <a href=
 
 <br />
 
-<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/62348583?s=400&u=7a3327354f27817964a4d7b754381ec64b9d672d&v=4" width="400" height="400" />
+<!--img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/62348583?s=400&u=7a3327354f27817964a4d7b754381ec64b9d672d&v=4" width="400" height="400" /-->
   
 **Languages and Tools:**
 
