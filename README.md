@@ -26,12 +26,12 @@ I live in Tula, Russia and working at market-top selling company called <a href=
 * [x] Linux workstations and servers
 * [x] pfSense administration
 * [x] Proxmox clusters
-* [x] Linux administration beginner
-* [ ] Linux administration intermediate
-* [ ] Linux administration advanced
-* [x] Python beginner
-* [x] Python intermediate
-* [ ] Python advanced
+* [x] Linux administration - beginner
+* [ ] Linux administration - intermediate
+* [ ] Linux administration - advanced
+* [x] Python development - beginner
+* [x] Python development - intermediate
+* [ ] Python development - advanced
 * [ ] DevOps
 * [ ] PHP deep learning
 * [ ] HTML5+CSS deep learning
