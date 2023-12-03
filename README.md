@@ -27,7 +27,7 @@ I live in Tula, Russia and working at market-top selling company called <a href=
 * [x] pfSense administration
 * [x] Proxmox clusters
 * [x] Linux administration - beginner
-* [ ] Linux administration - intermediate
+* [x] Linux administration - intermediate
 * [ ] Linux administration - advanced
 * [x] Python development - beginner
 * [x] Python development - intermediate
