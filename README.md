@@ -10,16 +10,16 @@ I live in Tula, Russia and working at market-top selling company called <a href=
   
 **Languages and Tools:**
 
-<code><img height="20" src="https://cdn.simpleicons.org/github/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/gitlab/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/php/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/html5/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/linux/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/windows/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/proxmox/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/pfsense/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/wireguard/white"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/openvpn/white"></code>
+<img height="20" src="https://cdn.simpleicons.org/github/white">
+<img height="20" src="https://cdn.simpleicons.org/gitlab/white">
+<img height="20" src="https://cdn.simpleicons.org/php/white">
+<img height="20" src="https://cdn.simpleicons.org/html5/white">
+<img height="20" src="https://cdn.simpleicons.org/linux/white">
+<img height="20" src="https://cdn.simpleicons.org/windows/white">
+<img height="20" src="https://cdn.simpleicons.org/proxmox/white">
+<img height="20" src="https://cdn.simpleicons.org/pfsense/white">
+<img height="20" src="https://cdn.simpleicons.org/wireguard/white">
+<img height="20" src="https://cdn.simpleicons.org/openvpn/white">
 
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
