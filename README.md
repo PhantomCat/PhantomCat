@@ -29,7 +29,7 @@ I live in Tula, Russia and working at market-top selling company called [Express
   * [x] Python development - intermediate
   * [ ] Python development - advanced
 * [ ] DevOps
-  * [x] Docker [Certificate](certs/Devops_Docker_Skillboks.jpeg)
+  * [x] Docker [Certificate](certs/Devops_Docker_Skillbox.jpeg)
   * [x] Linux administration - beginner
   * [x] Linux administration - intermediate
   * [ ] Linux administration - advanced
