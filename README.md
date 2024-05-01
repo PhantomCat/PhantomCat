@@ -25,8 +25,8 @@ I live in Tula, Russia and working at market-top selling company called [Express
 * [x] pfSense administration
 * [x] Proxmox clusters
 * [ ] Development
-  * [x] Python development - beginner
-  * [x] Python development - intermediate
+  * [x] Python development - beginner [Certificate](certs/Python_dev_01_skillbox.pdf)
+  * [x] Python development - intermediate [Certificate](certs/Python_dev_02_skillbox.png)
   * [ ] Python development - advanced
 * [ ] DevOps
   * [x] Docker [Certificate](certs/Devops_Docker_Skillbox.jpeg)
