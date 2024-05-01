@@ -2,7 +2,7 @@
 <br />
 
 My name is Serge and I'm a professional IT engineer, programmer and IOT-enthusiast.
-I live in Tula, Russia and working at market-top selling company called <a href="https://www.express-office.ru">Express office</a>
+I live in Tula, Russia and working at market-top selling company called [Express office](https://www.express-office.ru)
 
 <br />
 
@@ -19,18 +19,20 @@ I live in Tula, Russia and working at market-top selling company called <a href=
 <img height="30" src="https://cdn.simpleicons.org/wireguard/white"> 
 <img height="30" src="https://cdn.simpleicons.org/openvpn/white"> 
 
-🚧 **My tasks:**
+🚧 **My skills:**
 <!-- TODO-IST:START -->
 * [x] Linux workstations and servers
 * [x] pfSense administration
 * [x] Proxmox clusters
-* [x] Linux administration - beginner
-* [x] Linux administration - intermediate
-* [ ] Linux administration - advanced
-* [x] Python development - beginner
-* [x] Python development - intermediate
-* [ ] Python development - advanced
+* [ ] Development
+  * [x] Python development - beginner
+  * [x] Python development - intermediate
+  * [ ] Python development - advanced
 * [ ] DevOps
+  * [x] Docker [Certificate](certs/Devops_Docker_Skillboks.jpeg)
+  * [x] Linux administration - beginner
+  * [x] Linux administration - intermediate
+  * [ ] Linux administration - advanced
 * [ ] PHP deep learning
 * [ ] HTML5+CSS deep learning
 <!-- TODO-IST:END -->
