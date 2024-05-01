@@ -14,6 +14,7 @@ I live in Tula, Russia and working at market-top selling company called [Express
 <img height="30" src="https://cdn.simpleicons.org/github/white"> <img height="30" src="https://cdn.simpleicons.org/gitlab/white"> 
 <img height="30" src="https://cdn.simpleicons.org/html5/white"> 
 <img height="30" src="https://cdn.simpleicons.org/php/white"> 
+<img height="30" src="https://cdn.simpleicons.org/python/white"> 
 <img height="30" src="https://cdn.simpleicons.org/proxmox/white"> 
 <img height="30" src="https://cdn.simpleicons.org/pfsense/white"> 
 <img height="30" src="https://cdn.simpleicons.org/wireguard/white"> 
