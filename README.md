@@ -2,7 +2,8 @@
 <br />
 
 My name is Serge and I'm a professional IT engineer, programmer and IOT-enthusiast.
-I live in Tula, Russia and working at market-top selling company called [Express office](https://www.express-office.ru)
+I live in Tula, Russia 3+ yrs worked on market-top selling company called [Express office](https://www.express-office.ru)
+And now working on digital-production company in Moscow.
 
 <br />
 
@@ -10,7 +11,7 @@ I live in Tula, Russia and working at market-top selling company called [Express
   
 **Languages and Tools:**
 
-<img height="30" src="https://cdn.simpleicons.org/linux/white"> <img height="30" src="https://cdn.simpleicons.org/windows/white"> 
+<img height="30" src="https://cdn.simpleicons.org/linux/white"> <img height="30" src="https://cdn.simpleicons.org/yandexcloud/white"> 
 <img height="30" src="https://cdn.simpleicons.org/github/white"> <img height="30" src="https://cdn.simpleicons.org/gitlab/white"> 
 <img height="30" src="https://cdn.simpleicons.org/html5/white"> 
 <img height="30" src="https://cdn.simpleicons.org/php/white"> 
@@ -44,7 +45,7 @@ I live in Tula, Russia and working at market-top selling company called [Express
   <img align="left" alt="ВК" width="22px" src="https://cdn.simpleicons.org/vk/white" />
 </a>
 <a href="https://twitter.com/phantomcat71">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/white" />
+  <img align="left" alt="X (ex-Twitter)" width="22px" src="https://cdn.simpleicons.org/x/white" />
 </a>
 <a href="https://t.me/phantomcat71">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/white" />
